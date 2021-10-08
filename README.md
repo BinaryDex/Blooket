@@ -15,7 +15,7 @@ You can use the Inspect Element Console by doing `Ctrl + Shift + I` or right cli
 
 # Credits<br>
 
-<a href="https://github.com/DarklordX89/BlooketTokenAdder">DarklordX89</a>
-<a href="https://github.com/ThatFruedDued/blooket-hack">ThatFruedDued</a>
-<a href="https://gbasil.dev/blooket">GunnerBasil</a>
-<a href="https://github.com/HonestlyDex">HonestlyDex</a>(ME)
+<a href="https://github.com/DarklordX89/BlooketTokenAdder">DarklordX89</a><br>
+<a href="https://github.com/ThatFruedDued/blooket-hack">ThatFruedDued</a><br>
+<a href="https://gbasil.dev/blooket">GunnerBasil</a><br>
+<a href="https://github.com/HonestlyDex">HonestlyDex</a> (ME)
