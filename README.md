@@ -13,4 +13,9 @@ To make a Bookmarklet you have to copy-paste the code in the files into the URL 
 
 You can use the Inspect Element Console by doing `Ctrl + Shift + I` or right clicking on the page and press Inspect Element (or developer tools) then once inspect element is open at the top of the UI click "console" and then paste in the javascript code on the Blooket page (OR GAME).
 
-## Credits<br>
+# Credits<br>
+
+<a href="https://github.com/DarklordX89/BlooketTokenAdder">DarklordX89</a>
+<a href="https://github.com/ThatFruedDued/blooket-hack">ThatFruedDued</a>
+<a href="https://gbasil.dev/blooket">GunnerBasil</a>
+<a href="https://github.com/HonestlyDex">HonestlyDex</a>(ME)
