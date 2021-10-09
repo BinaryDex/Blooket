@@ -3,7 +3,7 @@
 ## What is this?<br>
 
 This is a collection of hacks the popular online game, <a href="https://blooket.com">Blooket</a>. I claim no rights for these hacks and all credits go to the respected creators.
-## How do I use this<br>
+## How do I use this?<br>
 
 You can use these hacks by putting them into a Bookmarklet, or Inspect element console.
 ## How do I make a Bookmarklet?<br>
