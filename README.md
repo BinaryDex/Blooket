@@ -1,6 +1,6 @@
 # Dex's Blooket Hacks<br>
 
-### Whats is this?<br>
+## Whats is this?<br>
 
 These are a collection of hacks the popular online game, <a href="https://blooket.com">Blooket</a>. I claim no rights for these hacks and all credits go to the respected creators.
 ## How do I use this<br>
