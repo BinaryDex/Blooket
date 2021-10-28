@@ -18,4 +18,5 @@ You can use the Inspect Element Console by doing `Ctrl + Shift + I` or right cli
 <a href="https://github.com/DarklordX89/">DarklordX89</a><br>
 <a href="https://github.com/ThatFruedDued/blooket-hack/">ThatFruedDued</a><br>
 <a href="https://github.com/GunnerBasil/">GunnerBasil</a><br>
+<a href="https://github.com/glixzzy/">Glixzzy</a><br>
 <a href="https://github.com/HonestlyDex/">HonestlyDex</a> (ME)
